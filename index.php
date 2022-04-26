@@ -37,13 +37,13 @@ endif;
 						
 						<div class="col-md-4">
 							<div class="form-group">
-								<label>NIM :</label>
+								<label style="color:blue;font-family:sans">NIM :</label>
 								<input type="text" class="form-control" name="nim"/>
 							</div>
 						</div>
 						<div class="col-md-4">
 							<div class="form-group">
-								<label>NAMA MAHASISWA :</label>
+								<label style="color:blue;font-family:sans">NAMA MAHASISWA :</label>
 								<input type="text" class="form-control" name="nama_mahasiswa"/>
 							</div>
 						</div>
